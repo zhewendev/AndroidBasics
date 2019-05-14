@@ -1,5 +1,6 @@
 package com.vivo.wenruan.dialogpracticedemo;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -37,4 +38,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(rly);
         ArrayAdapter arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item)
     }
+
+    Activity
 }
