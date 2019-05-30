@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotificationDemo</string>
+    <string name="notification">%1$d条notification</string>
+    <string name="reply_label">reply</string>
+</resources>
